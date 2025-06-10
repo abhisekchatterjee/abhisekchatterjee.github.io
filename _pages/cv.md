@@ -18,7 +18,5 @@ Education
 Work experience
 ======
 * Nielsen: Senior Data Scientist, Sep 2024 - Jul 2025
-
 * Accenture: Senior Analyst, AI/ML Computational Science, Jun 2023 - Sep 2024
-
 * Accenture: Analyst, Data Science, Sep 2021 - May 2023
