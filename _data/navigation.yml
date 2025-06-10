@@ -23,14 +23,14 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /files/Curriculum_Vitae_Abhisek_Chatterjee.pdf
+  # - title: "CV"
+  #   url: /files/Curriculum_Vitae_Abhisek_Chatterjee.pdf
 
   - title: "Research Interests"
     url: /research_interests/  
     
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "CV"
+    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
