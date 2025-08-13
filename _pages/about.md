@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Data Scientist at Nielsen, waiting to start my PhD in Statistics!
+I am a PhD candidate in Statistics at University of Maryland, Baltimore County!
 
 More to come....
 
