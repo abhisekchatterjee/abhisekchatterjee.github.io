@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Statistics at University of Maryland, Baltimore County!
+I am a 1st-year PhD student in Statistics at University of Maryland, Baltimore County!
 
 More to come....
 
