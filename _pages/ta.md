@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "TA"
+title: "Teaching Assistant Experience"
 permalink: /ta/
 author_profile: true
 redirect_from:
