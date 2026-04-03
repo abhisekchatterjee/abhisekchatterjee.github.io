@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "TA"
 permalink: /ta/
 author_profile: true
