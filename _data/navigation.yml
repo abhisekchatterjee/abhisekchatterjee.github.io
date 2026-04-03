@@ -31,6 +31,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Teaching (TA)"
+    url: /ta/
     
   # - title: "Guide"
   #   url: /markdown/
