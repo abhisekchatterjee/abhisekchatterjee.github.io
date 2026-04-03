@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Teaching Assistant Experience
-
 ### STAT 355 — Introduction to Probability and Statistics for Scientists and Engineers
 University of Maryland, Baltimore County  
 Spring 2026 
