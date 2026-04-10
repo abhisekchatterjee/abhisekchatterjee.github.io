@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st-year PhD student in Statistics at University of Maryland, Baltimore County!
+I am a 1st-year PhD student in Statistics at University of Maryland, Baltimore County.
 
-![UMBC](/images/UMBC_campus1.png){: .align=center height="300px"}
+![University of Maryland, Baltimore County](/images/UMBC_campus1.png){: .align=center height="300px"}
 <!-- <img src="/images/UMBC campus1.jpeg" alt="" style="display:block; margin:auto; max-height:300px;"> -->
 
 
