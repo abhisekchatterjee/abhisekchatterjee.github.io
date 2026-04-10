@@ -9,7 +9,7 @@ redirect_from:
 
 I am a 1st-year PhD student in Statistics at University of Maryland, Baltimore County!
 
-![UMBC](/images/UMBC campus1.jpeg){: .align=center height="300px"}
+![UMBC](/images/UMBC_campus1.png){: .align=center height="300px"}
 <!-- <img src="/images/UMBC campus1.jpeg" alt="" style="display:block; margin:auto; max-height:300px;"> -->
 
 
