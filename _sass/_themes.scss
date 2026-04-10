@@ -15,8 +15,9 @@ $indent-var                 : 1.3em;
 
 /* System typefaces */
 $serif                      : Times, Georgia, serif;
-$sans-serif                 : "Calibri", Georgia, "Bookman", "Baskervville", "Trebuchet MS", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+// Other fonts: Georgia, "Bookman", "Baskervville", "Trebuchet MS", 
 
 /* Sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
