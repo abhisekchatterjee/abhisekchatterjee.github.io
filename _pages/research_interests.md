@@ -13,6 +13,6 @@ I am interested in the following areas:
 ======
 * Bayesian statistics, MCMC methods, and uncertainty quantification
 * Non-parametric statistics, measures of robustness
-* Causal Inference
+* Causal inference
 * Statistical data science, machine and deep learning
 <!-- * Survey methodology -->
