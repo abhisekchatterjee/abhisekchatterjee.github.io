@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+### STAT 355 — Introduction to Probability and Statistics for Scientists and Engineers
+University of Maryland, Baltimore County  
+Fall 2026 
+
 ### STAT 350 — Statistics with Applications in the Biological Sciences
 University of Maryland, Baltimore County  
 Summer 2026 
