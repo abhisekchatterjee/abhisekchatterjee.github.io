@@ -28,7 +28,7 @@ author:
   bio              : "Statistician, Data Scientist"
   location         : "Halethorpe, MD"
   employer         : "UMBC"
-  uri              : https://mathstat.umbc.edu/
+  # uri              : https://mathstat.umbc.edu/
   email            : "abhisekchatterjee108@gmail.com" 
 
   # Academic websites
