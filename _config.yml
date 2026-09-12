@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Statistician, Data Scientist"
   location         : "Halethorpe, MD"
-  employer         : "[UMBC](https://mathstat.umbc.edu/)"
-  uri              : # URL
+  employer         : "UMBC"
+  uri              : https://mathstat.umbc.edu/
   email            : "abhisekchatterjee108@gmail.com" 
 
   # Academic websites
